@@ -1,2 +1,5 @@
 # cisco-gns3-labs
-notes from ccna study. 
+
+Directories contain lab files in GNS3. 
+
+Configuration scripts for each lab are segmented by node.
