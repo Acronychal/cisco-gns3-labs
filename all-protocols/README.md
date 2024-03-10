@@ -10,7 +10,7 @@ VLAN
 
 Topology as follows:
 
-![](ccna-lab-all-protocols.png)
+![](CCNA-lab-all-protocols.png)
 
 
 Application: GNS3
